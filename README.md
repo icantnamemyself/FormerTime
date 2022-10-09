@@ -2,7 +2,7 @@
 
 ---
 
-anonymous repo for AAAI'23 submission 884:
+anonymous repo for WWW'23 submission 517:
 
 > 
 > FormerTime: Hierarchical Multi-scale Representation for Multivariate Time Series Classification
