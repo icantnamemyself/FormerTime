@@ -2,7 +2,7 @@
 
 ---
 
-anonymous repo for WWW'23 submission 517:
+Pytorch implementation for WWW'23 paper:
 
 > 
 > FormerTime: Hierarchical Multi-scale Representation for Multivariate Time Series Classification
